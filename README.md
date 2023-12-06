@@ -1,6 +1,7 @@
 # Exercise Tracker
 
 * This project is an Exercise Tracker built using FreeCodeCamp's boilerplate for the Exercise Tracker project. The goal of the project is to create a web application that allows users to track their exercises and view their exercise logs.
+* I set up the MongoDB database and wrote the index.js backend file for this project based on the boilerplate
 * Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker
 
 
